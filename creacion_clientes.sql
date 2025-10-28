@@ -8,3 +8,10 @@ edad int,
 constraint clientes_pk primary key(cedula)
 )
 
+
+
+
+
+
+
+
